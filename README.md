@@ -1,0 +1,1 @@
+# Speechify was designed for people who want to synthesize text into speech. You can use it even as new language learning helper. For exmaple, while you running on a treadmil you can find comlicated text for you and synthesize it into speech and translate on one of the four languages (French, Russian, Spanish and English)
